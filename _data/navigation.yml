@@ -5,7 +5,7 @@ textarea_html: >-
   href="/blog-categories/blogs">blogs</a></p><p><a href="/#contact">work with
   us</a></p>
 colors:
-  hamburger-color: '#ffffff'
+  hamburger-color: '#bccaca'
   background-color: '#859f9f'
   textarea-background-color: '#bccaca'
   border-color: '#ffffff'
