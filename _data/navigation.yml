@@ -1,9 +1,9 @@
 textarea_html: >-
   <p><a href="/#services">services</a></p><p><a
-  href="/portfolio.html">portfolio</a></p><p><a href="/group-trips.html">group
-  trips</a></p><p><a href="/#reviews">testimonials</a></p><p><a
-  href="/blog-categories/blogs">blogs</a></p><p><a href="/#contact">work with
-  us</a></p>
+  href="/portfolio.html">portfolio</a></p><p><a
+  href="/#reviews">testimonials</a></p><p><a href="/group-trips.html">group
+  trips</a></p><p><a href="/blog-categories/blogs">blogs</a></p><p><a
+  href="/#contact">work with us</a></p>
 colors:
   hamburger-color: '#bccaca'
   background-color: '#859f9f'
